@@ -1,6 +1,6 @@
 # Team Awesome V1
 
-TODO: some stuff
+TODO: some stuff. and then we need to do more stuff.
 
 ## Installation
 
