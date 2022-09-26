@@ -1,4 +1,4 @@
-# Project Name
+# Team Awesome V1
 
 TODO: some stuff
 
